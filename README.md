@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Uthpala9307
+- I'm really new to the world of programming
+- 👀 I’m interested in learning new language 
+- 🌱 I’m thinking to start learning python 
